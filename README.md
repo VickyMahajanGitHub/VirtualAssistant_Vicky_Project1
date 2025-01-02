@@ -1,4 +1,4 @@
-# VirtualAssistant_Vicky_Project1
-It is a AI Virtual Assistant. Its Completely develop with Python.
+# Virtual_Voice Assistant
+It is a AI Virtual Assistant. Its Completely develop using Python.
 <br>
 Author: Vicky Mahajan
